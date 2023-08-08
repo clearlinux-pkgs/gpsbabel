@@ -1,0 +1,2 @@
+install -m 0755 -d %{buildroot}/usr/bin/
+install -m 0755 -p gpsbabel %{buildroot}/usr/bin/
