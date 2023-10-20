@@ -1,0 +1,2 @@
+# This package doesn't create an install target. We'll do it manually in install_append.
+||:
